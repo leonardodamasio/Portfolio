@@ -55,6 +55,8 @@ Final Score = Weighted Average = ((m1 * a1 + m2 * a2 + ... + mn * an) / n) / ((a
 
 Qualquer dúvida, favor entrar em contato:
 
+[LinkedIn](https://www.linkedin.com/in/leonardodamasio)
+
 leoleonardo1996@hotmail.com
 
 (11) 98783-3949
