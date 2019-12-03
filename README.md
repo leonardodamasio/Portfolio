@@ -1,13 +1,13 @@
 # ensembleLearning
 Portfólio - Projeto de **_Ensemble Learning_** em *Python* para **_Detecção de Fraude_**.
 
-**_Leonardo Damasio_**
+<img src="image.png">
+
+## Read me
 
 >Towards Data Science: 
 >
 >"Ensemble models in machine learning combine the decisions from multiple models to improve the overall performance." 
-
-## Read me
 
 Antes de tudo, obrigado pelo interesse em meu repositório!
 
@@ -58,5 +58,3 @@ Qualquer dúvida, favor entrar em contato:
 leoleonardo1996@hotmail.com
 
 +55 (11) 98783-3949
-
-<img src="image.png">
