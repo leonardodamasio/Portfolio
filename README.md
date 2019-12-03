@@ -9,11 +9,14 @@ Antes de tudo, obrigado pelo interesse em meu repositório!
 
 Este é meu projeto de **_Ensemble Learning_** desenvolvido ao longo da minha jornada em **_Data Science_**. 
 
+
 >Towards Data Science: 
 >
 >"Ensemble models in machine learning combine the decisions from multiple models to improve the overall performance." 
 
+
 O modelo foi feito através da linguagem *Python 3.7* no **Sublime Text 3**.
+
 
 ### Modelos utilizados
 
@@ -26,6 +29,7 @@ O modelo foi feito através da linguagem *Python 3.7* no **Sublime Text 3**.
 - Extreme Gradient Boosted Trees Classifier
 - Deep Learning Multilayer Perceptron Neural Networks
 
+
 ### Técnica de Ensemble
 
 Model Score = m
@@ -33,6 +37,7 @@ Model Score = m
 Accuracy = a
 
 Final Score = Weighted Average = ((m1 * a1 + m2 * a2 + ... + mn * an) / n) / ((a1 + a2 + ... + an) / n)
+
 
 ### Bibliotecas utilizadas
 
@@ -46,6 +51,7 @@ Final Score = Weighted Average = ((m1 * a1 + m2 * a2 + ... + mn * an) / n) / ((a
 - SciKit-Learn
 - SciPy
 - XGBoost
+
 
 Qualquer dúvida, favor entrar em contato:
 
